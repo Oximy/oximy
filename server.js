@@ -32,5 +32,5 @@ msg.reply('pong!');
 
 // feature to hide the token we got earlier. 
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(ODM1NTI4MTkwNDc4NTE2MjQ1.YIQwQw.Bn5vkVVp5WbD36q-TwpSuWKk3ko);
 
